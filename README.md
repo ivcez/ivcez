@@ -16,5 +16,3 @@
 </p>
 
 ![avatar](https://yt3.googleusercontent.com/A7GQAewa2ggIlH1Z-ZwksvHbSmz0LIEctnNatPcZzd6poAAbjFPrLSYjAhNd3zrAree3W1wp=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/USERNAME)
