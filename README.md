@@ -4,14 +4,14 @@
 </p>
 <p align="center">
   <span style="color:#ff4d6d; font-size:24px;">
-    ꒰ ɪ ʟᴜᴠ ꜱᴘᴏᴋᴇ ꒱ ⋰˚☆
+    ꒰ ꜱᴘᴏᴋᴇ ꒱
   </span>
 </p>
 
 </p>
 <p align="center">
   <span style="color:#ff4d6d; font-size:24px;">
-    ︶︶︶︶︶︶︶︶︶︶
+    ꕀꕀꕀꕀꕀꕀꕀꕀꕀ
   </span>
 </p>
 
