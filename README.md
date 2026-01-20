@@ -1,3 +1,10 @@
+</p>
+<p align="center">
+  <span style="color:#ff4d6d; font-size:24px;">
+    𓏼
+  </span>
+</p>
+
 <p align="center">
   <img src="https://i.postimg.cc/vHZp8R2w/Untitled2057-20250907231256.png">
   
@@ -5,13 +12,6 @@
 <p align="center">
   <span style="color:#ff4d6d; font-size:24px;">
     ꒰ ꜱᴘᴏᴋᴇ ꒱
-  </span>
-</p>
-
-</p>
-<p align="center">
-  <span style="color:#ff4d6d; font-size:24px;">
-    ꕀ ꕀ ꕀ ꕀ ꕀ ꕀ ꕀ
   </span>
 </p>
 
