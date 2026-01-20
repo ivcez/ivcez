@@ -11,11 +11,10 @@
 </p>
 <p align="center">
   <span style="color:#ff4d6d; font-size:24px;">
-    ꒰ ꜱᴘᴏᴋᴇ ꒱
+    ꒰ Do I Creep U Out? ꒱
   </span>
 </p>
 
 ![avatar](https://yt3.googleusercontent.com/A7GQAewa2ggIlH1Z-ZwksvHbSmz0LIEctnNatPcZzd6poAAbjFPrLSYjAhNd3zrAree3W1wp=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-## 🎧 
-![Spotify](https://open.spotify.com/album/5oZ5YCtaBH4L4Q2rrQpdvg?uid=d4e64f1088c157420f4b&uri=spotify%3Atrack%3A6thTjkEc9a8mQoaJrMd7Tl)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/USERNAME)
