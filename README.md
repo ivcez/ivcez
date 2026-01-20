@@ -1,9 +1,4 @@
 <p align="center">
-  ![avatar](https://camo.githubusercontent.com/9fa60b8a6cf64e6675857734e78c0f76254609193f52c2d7e4cc65409513a98e/68747470733a2f2f692e706f7374696d672e63632f726d487351366d362f556e7469746c6564323035382d32303235303930373233323534352e706e67)
-  </span>
-</p>
-
-<p align="center">
   <span style="color:#ff4d6d; font-size:24px;">
     ꒰ hi ꒱
   </span>
