@@ -42,7 +42,7 @@
 <br clear="left"/>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/b5/9f/52/b59f522a522e04ea52d69be2faf1ad0c.jpg" width="320">
+  <img src="https://i.pinimg.com/736x/41/79/de/4179dea7223c728f79907a2def2155c1.jpg" width="320">
 </div>
 <div align="center">
   ═════════════════════════════════════════════════════════
