@@ -24,7 +24,7 @@
 <div align="center">
   
 <div align="center">
-  ═════════════════════════════════════════════════════════
+  -------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------‎
 </div>
 
 <div align="center">
@@ -43,4 +43,7 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/736x/b5/9f/52/b59f522a522e04ea52d69be2faf1ad0c.jpg" width="320">
+</div>
+<div align="center">
+  ═════════════════════════════════════════════════════════
 </div>
