@@ -14,4 +14,7 @@
 <div align="center">
   ɪᴍ ᴏꜰꜰᴛᴀʙ ᴛᴏᴏ ᴍᴜᴄʜ
 </div>
+<div align="center">
+  ɪ ᴡᴏɴᴛ ɪɴᴛ ꜰɪʀꜱᴛ, ʏᴏᴜ'ᴅ ʜᴀᴠᴇ ᴛᴏ... ɪᴍ ꜱʜʏ
+</div>
 <br clear="left"/>
