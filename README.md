@@ -5,6 +5,13 @@
   </span>
 </p>
 
+</p>
+<p align="center">
+  <span style="color:#ff4d6d; font-size:24px;">
+    i wont int first, you'd have to... Im shy
+  </span>
+</p>
+
 <p align="center">
   <img src="https://i.postimg.cc/vHZp8R2w/Untitled2057-20250907231256.png">
   
