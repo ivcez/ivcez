@@ -15,9 +15,7 @@
 </p>
 <p align="center">
   <span style="color:#ff4d6d; font-size:24px;">
-    INTTT INTT, Inting would be nice! I dont have lots of friends so interacting with me would be appreciated!! i swear i will NOT be dry after a couple msgs..
-
-working on a profilo for my art to show !! So hopefully you're interested in that :,D
+    INTTT INTT, Inting would be nice! I dont have lots of friends so interacting with me would be appreciated!! 
   </span>
 </p>
 
