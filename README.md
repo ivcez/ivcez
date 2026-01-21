@@ -10,11 +10,13 @@
 <div align="center">
   🇨​ ​🇽​ ​🇭​ ꜰʀᴇᴇʟʏ
 </div>
-
 <div align="center">
   ɪᴍ ᴏꜰꜰᴛᴀʙ ᴛᴏᴏ ᴍᴜᴄʜ
 </div>
 <div align="center">
   ɪ ᴡᴏɴᴛ ɪɴᴛ ꜰɪʀꜱᴛ, ʏᴏᴜ'ᴅ ʜᴀᴠᴇ ᴛᴏ... ɪᴍ ꜱʜʏ
+</div>
+<div align="center">
+  ᴄ + ʜ ɪꜱ ᴀʟᴡᴀʏꜱ ᴡᴇʟᴄᴏᴍᴇᴅ / ᴇɴᴄᴏᴜʀᴀɢᴇᴅ
 </div>
 <br clear="left"/>
