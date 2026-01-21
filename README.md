@@ -1,6 +1,6 @@
 <div align="center">
 
-────────────────────────────────────────────────────────────
+════════════════════════════════════════════════════════════════════════════
 
 </div>
 
@@ -13,4 +13,16 @@
 </td>
 
 <td width="45%" align="left">
+
+
+**C X H FREELY , I SWITCH TABS OCCASIONALLY**
+
+DO NOT COPY OR TAKE INSPO OFF SKINS WITHOUT  
+PERMISSION
+
+IF I DISCONNECT , I WON'T GET UR LAST MESSAGE ,  
+PLEASE SEND IT AGAIN !
+
+REALLY TALKATIVE WITH FRIENDS , DON'T BE SCARED  
+TO TALK WITH US
 
