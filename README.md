@@ -24,7 +24,7 @@
   
 </p>
 <p align="center">
-  <span style="color:#ff4d6d; font-size:24px;">
+  <span style="color:#a60013; font-size:24px;">
     ꒰ Do I Creep U Out? ꒱
   </span>
 </p>
