@@ -6,4 +6,8 @@
 <div align="center">
   -------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------‎
 </div>
+
+<div align="center">
+  🇨​ ​🇽​ ​🇭​ ꜰʀᴇᴇʟʏ
+</div>
 <br clear="left"/>
