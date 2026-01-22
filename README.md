@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  🇨​ ​🇽​ ​🇭​ ꜰʀᴇᴇʟʏ
+  ᴄ ​x ​ʜ​ ꜰʀᴇᴇʟʏ
 </div>
 <div align="center">
   ɪᴍ ᴏꜰꜰᴛᴀʙ ᴛᴏᴏ ᴍᴜᴄʜ
