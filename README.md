@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ivcez/ivcez/refs/heads/main/G-0wu40bgAAQyjt-removebg-preview.png" width="320">
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wifies&label=_⠀_໒˳͡　_clones_⠀_&color=8057bd&style=flat" alt="wifies" /> </p>
