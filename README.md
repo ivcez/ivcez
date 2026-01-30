@@ -2,9 +2,11 @@
 <tr>
 <td width="55%" align="center">
 
-<img src="https://raw.githubusercontent.com/ivcez/ivcez/refs/heads/main/G-0wu40bgAAQyjt-removebg-preview.png" width="350"/>
+<img src="https://raw.githubusercontent.com/ivcez/ivcez/refs/heads/main/G-0wu40bgAAQyjt-removebg-preview.png" width="600"/>
 
 </td>
+
+<td width="45%" align="left">
   
 </div>
 <div align="center">
