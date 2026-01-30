@@ -1,8 +1,3 @@
-<p align="center">
-</p>
-
-<img align="left" width="500" height="700" alt="image" src="https://raw.githubusercontent.com/ivcez/ivcez/refs/heads/main/G-0wu40bgAAQyjt-removebg-preview.png" />
-<p align="center">
   <p align="center">
 ɪᴍᴀɢᴇ ᴄʀ : <a href="https://x.com/4thdimensionwtv"> @4ᴛʜᴅɪᴍᴇɴꜱɪᴏɴᴡᴛᴠ ᴏɴ x </a>
 </p>
@@ -51,3 +46,8 @@
 
 <p align="center">
 </p>
+<p align="center">
+</p>
+
+<img align="left" width="500" height="700" alt="image" src="https://raw.githubusercontent.com/ivcez/ivcez/refs/heads/main/G-0wu40bgAAQyjt-removebg-preview.png" />
+<p align="center">
