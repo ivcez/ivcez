@@ -3,7 +3,7 @@
 
 <img align="left" width="500" height="700" alt="image" src="https://raw.githubusercontent.com/ivcez/ivcez/refs/heads/main/G-0wu40bgAAQyjt-removebg-preview.png" />
 <p align="center">
-────────────୨୧────────────
+─────────୨୧─────────
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3176nerz7nxkagecb6ztkcy5oz5e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
@@ -12,7 +12,7 @@
 ɪᴍᴀɢᴇ ᴄʀ : <a href="https://x.com/4thdimensionwtv"> @4ᴛʜᴅɪᴍᴇɴꜱɪᴏɴᴡᴛᴠ ᴏɴ x </a>
 </p>
 <p align="center">
-  ─────────── ꒰ ✉︎ ꒱ ───────────‎
+  ────── ꒰ ✉︎ ꒱ ──────‎
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&letterSpacing=1px&duration=2000&pause=50&color=6551957B&center=true&vCenter=true&multiline=true&width=500&height=130&lines=please+parrot%2C;please.;give+that+to+me..;before+you+hurt+yourself." alt="Typing SVG" /></a>
 
