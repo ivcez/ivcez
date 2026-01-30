@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3176nerz7nxkagecb6ztkcy5oz5e&cover_image=true&theme=default&show_offline=&background_color=121212&interchange=true&profanity=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view uid=3176nerz7nxkagecb6ztkcy5oz5e&cover_image=true&theme=default&show_offline=&background_color=121212&profanity=true&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
 <p align="center">
