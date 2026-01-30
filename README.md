@@ -10,7 +10,7 @@
 </a>
 </p>
 <p align="center">
-ɪᴍᴀɢᴇ ᴄʀ : <a href="https://x.com/milkilattes"> @ᴍɪʟᴋɪʟᴀᴛᴛᴇꜱ ᴏɴ x </a>
+ɪᴍᴀɢᴇ ᴄʀ : <a href="https://x.com/4thdimensionwtv"> @4ᴛʜᴅɪᴍᴇɴꜱɪᴏɴᴡᴛᴠ ᴏɴ x </a>
 </p>
 <p align="center">
 --------------------˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗--------------------‎
