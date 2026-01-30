@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<img align="left" width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/ff010d38-7dcc-4af2-b3f5-2f3f33b07e67" />
+<img align="left" width="500" height="700" alt="image" src="https://raw.githubusercontent.com/ivcez/ivcez/refs/heads/main/G-0wu40bgAAQyjt-removebg-preview.png" />
 <p align="center">
 ----------♡----------
 </p>
