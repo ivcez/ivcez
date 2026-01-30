@@ -31,24 +31,6 @@ IF I DISCONNECT , I WON'T GET UR LAST MESSAGE , PLEASE SEND IT AGAIN !
 <br>
 REALLY TALKATIVE WITH FRIENDS , DON'T BE SCARED TO TALK WITH US  
 
-<br><br>
-
-♡ HI CRUSH / ROT &lt;3 ;  
-<br>
-↳ THE WIFIES TO MY PARROT &lt;3 ✧  
-
-<br><br>
-
-MY MAIN LINKS , CHECK UNDER BIO 4 MORE ♡  
-
-<br>
-
-<a href="https://rentry.co/">RENTY ♡</a>  
-<br>
-<a href="https://atabook.org/">ATABOOK ♡</a>  
-<br>
-<a href="https://prns.cc/">PRNS.PG</a>
-
 </td>
 </tr>
 </table>
