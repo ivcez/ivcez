@@ -5,8 +5,6 @@
 <img src="https://raw.githubusercontent.com/ivcez/ivcez/refs/heads/main/G-0wu40bgAAQyjt-removebg-preview.png" width="350"/>
 
 </td>
-
-<td width="45%" align="left">
   
 </div>
 <div align="center">
