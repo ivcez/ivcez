@@ -27,7 +27,7 @@
 </p>
 <img
   src="https://raw.githubusercontent.com/ivcez/ivcez/refs/heads/main/G-9sqpcWAAAA3eO-removebg-preview.png" 
-  width="200"
+  width="350"
   align="right"
   />
   <p align="center">‎
