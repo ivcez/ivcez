@@ -13,7 +13,8 @@
   </a>
 </p>
 <p align="center">
-ɪᴍᴀɢᴇ ᴄʀ : <a href="https://x.com/4thdimensionwtv"> @4ᴛʜᴅɪᴍᴇɴꜱɪᴏɴᴡᴛᴠ ᴏɴ x </a>
+ɪᴍᴀɢᴇ ᴄʀ : <a href="https://x.com/4thdimensionwtv"> @4thdmiensionwtv ᴏɴ x </a>
+  <a href="https://x.com/chunkbann"> @chunkkann ᴏɴ x </a>
 </p>
 <p align="center">
   ────── ꒰ ✉︎ ꒱ ──────
