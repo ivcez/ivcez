@@ -24,7 +24,7 @@
 
 </p>
 <p align="center">
-  ʀᴇᴀʟʟʏ ᴛᴀʟᴋᴀᴛɪᴠᴇ ᴡɪᴛʜ ꜰʀɪᴇɴᴅꜱ , ᴅᴏɴ'ᴛ ʙᴇ ꜱᴄᴀʀᴇᴅ ᴛᴏ ᴛᴀʟᴋ ᴡɪᴛʜ ᴍᴇ ! ɪ ᴅᴏɴ'ᴛ ʙɪᴛᴇ ;´ - `;
+  ʀᴇᴀʟʟʏ ᴛᴀʟᴋᴀᴛɪᴠᴇ ᴡɪᴛʜ ꜰʀɪᴇɴᴅꜱ , ᴅᴏɴ'ᴛ ʙᴇ ꜱᴄᴀʀᴇᴅ ᴛᴏ ᴛᴀʟᴋ ᴡɪᴛʜ ᴍᴇ . ɪ ᴅᴏɴ'ᴛ ʙɪᴛᴇ !
 </p>
 <img
   src="https://raw.githubusercontent.com/ivcez/ivcez/refs/heads/main/G-9sqpcWAAAA3eO-removebg-preview.png" 
