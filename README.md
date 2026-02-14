@@ -1,5 +1,4 @@
 <hr/>
-<hr/>
 <p align="center">
 </p>
 
